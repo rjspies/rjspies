@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-I am currently happily working in the myAudi-Team for Android and intensly honing my skills in Android and general software engineering. In my GitHub profile you will find all my software projects and solution which I create in order to improve my knowledge base steadily.
+I am currently happily working on the myAudi-Team for Android and intensively honing my skills in Android development and general software engineering.
+On my GitHub profile, you can find all of my software projects and solutions, which I create to steadily improve my knowledge base.
