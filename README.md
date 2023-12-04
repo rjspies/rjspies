@@ -12,9 +12,9 @@
 
 ## My Skill Set  
 <style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:1px solid #EEE;}
-.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+    td, th {
+        border: none
+    }​
 </style>
 
 <table class="tab"><tr><td valign="top" width="33%">
