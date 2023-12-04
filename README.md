@@ -6,10 +6,7 @@
 
 ## My Skill Set
 
-<table>
-<tr>
-<td valign="top" width="33%">
-<div align="center">
+<div style="display: flex; flex-direction: row; justify-content: start; align-items: center">
 <a href="https://kotlinlang.org/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
 </a>
@@ -19,11 +16,6 @@
 <a href="https://www.linux.org/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 </a>
-</div>
-</td>
-
-<td valign="top" width="33%">
-<div align="center">
 <a href="https://mui.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
 </a>
@@ -32,13 +24,7 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-</a>
-</div>
-
-</td>
-<td valign="top" width="33%">
-<div align="center">
-<a href="https://www.jenkins.io/" target="_blank">
+</a><a href="https://www.jenkins.io/" target="_blank">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />
 </a>
 <a href="https://about.gitlab.com/" target="_blank">
@@ -49,20 +35,16 @@
 </a>
 </div>
 
-</td>
-</tr>
-</table>
-
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rjspies&show_icons=true&count_private=true&hide_border=true" align="start" />
-
 <div align="start">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjspies&hide_border=true&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjspies&hide_border=true&layout=compact&theme=dracula" />
 </div>
 
-<br/>
+<div align="start">
+<img src="https://github-readme-stats.vercel.app/api?username=rjspies&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+</div>
 
 <div align="start">
-<img src="https://komarev.com/ghpvc/?username=rjspies&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=rjspies&&style=flat-square" />
 </div>
