@@ -1,8 +1,8 @@
-### <div align="center">I'm René, a full-time Android developer 👨‍💻</div>
+### I'm René, a full-time Android developer 👨‍💻
   
 - 🔭 I’m currently working on [myAudi](https://play.google.com/store/apps/details?id=de.myaudi.mobile.assistant)
   
-- ❓ Ask me about anything related to Kotlin, Android and related technologies
+- ❓ Ask me about anything related to Kotlin, Android or cars. Especially cars, yes
 
 ## My Skill Set
 
